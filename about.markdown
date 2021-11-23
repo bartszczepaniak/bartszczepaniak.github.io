@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-WIP
+This blog is about all topics and subjects related to iOS devops.
 
